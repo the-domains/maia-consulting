@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Maia Consulting]]></title>
+        <description><![CDATA[Maia Consulting]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Apr 2016 07:16:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Moz On Mobile Update]]></title>
+            <description><![CDATA[<article><h1>Moz On Mobile Update</h1><p>info on the new update coming in Google</p></article>]]></description>
+            <link>undefinedmoz-on-mobile-update/index.html</link>
+            <guid isPermaLink="false">1ea1ebd5-30df-4b16-a1b8-88f0de1d1113</guid>
+            <pubDate>Wed, 13 Apr 2016 07:16:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
